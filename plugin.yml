@@ -1,0 +1,13 @@
+name: OnlineOps
+version: 1.0.0
+author: applqpak
+api: [1.0.0]
+main: OnlineOps\Main
+commands:
+  onlineops:
+    usage: "/onlineops"
+    description: See All Online OPs!
+    permission: onlineops.command
+permissions:
+  onlineops.command:
+    default: true
